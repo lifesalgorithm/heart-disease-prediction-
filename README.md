@@ -8,7 +8,8 @@ Tech Stack: Python, Jupyter Notebook, Pandas, Scikit-Learn, Seaborn, Matplotlib.
 Models: Classification models (e.g., Logistic Regression, Random Forest, ).   
 Data: UCI Heart Disease Dataset from kaggle.
 
-Key Steps:
+Key Steps
+
 Data Collection: Load heart disease dataset with patient attributes (age, sex, cholesterol, etc.).             
 Data Cleaning & Preprocessing:Handle missing values, encode categorical variables, scale features if needed.         
 Exploratory Data Analysis (EDA): Visualize correlations and feature importance.          
@@ -18,5 +19,6 @@ Model Training: Split data into training and test sets. Train ML models to predi
 
 Files: Heart Disease Prediction.ipynb — The main notebook with code for EDA, model building, and predictions.
 
-✨ Future Improvements:                                       Deploy the model as a web app for public use (e.g., with Streamlit or Flask), Use advanced algorithms like XGBoost or Neural Networks for better accuracy, Perform hyperparameter tuning and cross-validation.
+✨ Future Improvements:                                       
+Deploy the model as a web app for public use (e.g., with Streamlit or Flask), Use advanced algorithms like XGBoost or Neural Networks for better accuracy, Perform hyperparameter tuning and cross-validation.
 
